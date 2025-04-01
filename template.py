@@ -17,6 +17,8 @@ list_of_files = [
     "requirements.txt",
     "run.py",
     "README.md",
+    "setup.py",
+    "init_setup.sh",
 ]
 
 # Create directories and files
