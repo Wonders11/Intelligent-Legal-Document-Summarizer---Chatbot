@@ -1,0 +1,14 @@
+transformers
+torch
+sentence-transformers
+faiss-cpu
+langchain
+openai
+tiktoken
+pymupdf
+spacy
+fastapi
+uvicorn
+streamlit
+
+-e .

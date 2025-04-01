@@ -131,6 +131,7 @@ celerybeat.pid
 .env
 .venv
 env/
+legal_ai_project/
 venv/
 ENV/
 env.bak/
